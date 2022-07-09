@@ -63,7 +63,9 @@ If no recognized module system is present, access bundle contents via the global
 ```html
 <script type="text/javascript">
 (function () {
+(function () {
     window.Levy;
+})();
 })();
 </script>
 ```
@@ -289,6 +291,7 @@ y = levy.quantile( 1.9 );
 <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-levy-ctor@umd/browser.js"></script>
 <script type="text/javascript">
 (function () {
+(function () {
 
 var levy = new Levy( 2.0, 4.0 );
 
@@ -304,6 +307,7 @@ var s2 = levy.variance;
 var y = levy.cdf( 20.0 );
 // returns ~0.637
 
+})();
 })();
 </script>
 </body>
