@@ -52,7 +52,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import Levy from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-levy-ctor@deno/mod.js';
+import Levy from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-levy-ctor@v0.2.2-deno/mod.js';
 ```
 
 #### Levy( \[mu, c] )
@@ -270,7 +270,7 @@ y = levy.quantile( 1.9 );
 <!-- eslint no-undef: "error" -->
 
 ```javascript
-import Levy from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-levy-ctor@deno/mod.js';
+import Levy from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-levy-ctor@v0.2.2-deno/mod.js';
 
 var levy = new Levy( 2.0, 4.0 );
 
