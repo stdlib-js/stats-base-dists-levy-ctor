@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-03-22)
+## Unreleased (2025-12-30)
 
 <section class="issues">
 
@@ -24,6 +24,8 @@ This release closes the following issue:
 
 <details>
 
+-   [`50b3a2c`](https://github.com/stdlib-js/stdlib/commit/50b3a2c95317bf69b879709c648aacf908439c16) - **docs:** fix function name tags _(by Philipp Burckhardt)_
+-   [`7add020`](https://github.com/stdlib-js/stdlib/commit/7add0201c13e56a0381926ccfd4073c84eaf2ed4) - **test:** use standardized assertion messages and fix lint errors _(by Philipp Burckhardt)_
 -   [`73050cb`](https://github.com/stdlib-js/stdlib/commit/73050cb11de45fd04b8e59c5df8ef30f891dba07) - **bench:** refactor random number generation in `stats/base/dists/levy` [(#6044)](https://github.com/stdlib-js/stdlib/pull/6044) _(by Hemant M Mehta, Athan Reines)_
 
 </details>
@@ -36,10 +38,11 @@ This release closes the following issue:
 
 ### Contributors
 
-A total of 2 people contributed to this release. Thank you to the following contributors:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
 -   Hemant M Mehta
+-   Philipp Burckhardt
 
 </section>
 
