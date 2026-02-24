@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`6146ff9`](https://github.com/stdlib-js/stdlib/commit/6146ff9bbfd717fab87a500642ceb09c693eb24d) - **bench:** update random value generation for `stats/base/dists/levy/ctor` [(#10443)](https://github.com/stdlib-js/stdlib/pull/10443) _(by Lokesh Ranjan)_
 -   [`bdd38d9`](https://github.com/stdlib-js/stdlib/commit/bdd38d971f4c0a24d43aca632ca5098cc0b90332) - **bench:** refactor to use string interpolation in `stats/base/dists/levy` [(#10444)](https://github.com/stdlib-js/stdlib/pull/10444) _(by Vishal Gaikwad)_
 
 </details>
@@ -24,8 +25,9 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
+-   Lokesh Ranjan
 -   Vishal Gaikwad
 
 </section>
